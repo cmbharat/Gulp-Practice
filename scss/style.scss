@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+div{
+    background-color: aliceblue;
+    border: 1px solid #cccc;
+    padding: 2px;
+    margin: 50px auto;
+    h1{
+        color: red;
+        font-size: 40px;
+        small{
+            color: blue;
+        }
+    }
+
+}
